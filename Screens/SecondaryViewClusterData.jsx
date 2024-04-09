@@ -5,7 +5,6 @@ import { MaterialCommunityIcons } from "@expo/vector-icons";
 import {useState, useEffect} from 'react';
 import {Dimensions} from 'react-native'
 import { Table, TableWrapper, Row, Rows, Col, Cols, Cell } from 'react-native-reanimated-table';
-import axios from "axios";
 
 function epoch2Date(epoch){
     //converts epoch to date

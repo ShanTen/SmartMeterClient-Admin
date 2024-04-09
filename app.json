@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "AdminViewSmartMeter",
+    "name": "SmartMeterAdmin",
     "slug": "AdminViewSmartMeter",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,7 +18,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.acremote.adminviewsmartmeter",
+      "package": "com.acremote.AdminViewSmartmeter",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -29,7 +29,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "52233983-35c1-402c-bc1b-7f888fb12528"
+        "projectId": "43e26012-2a1a-4ed4-988a-edda67461a68"
       }
     }
   }
