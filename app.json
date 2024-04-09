@@ -1,12 +1,31 @@
 {
   "expo": {
-    "extra": {
-      "eas": {
-        "projectId": "52233983-35c1-402c-bc1b-7f888fb12528"
-      }
+    "name": "AdminViewSmartMeter",
+    "slug": "AdminViewSmartMeter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
     },
     "android": {
-      "package": "com.acremote.adminviewsmartmeter"
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
     }
   }
 }
+
