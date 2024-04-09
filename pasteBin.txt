@@ -1,0 +1,14 @@
+    // <NavigationContainer>
+    //   <Tab.Navigator>
+    //     <Tab.Screen
+    //       name="Home"
+    //       component={HomeScreen}
+    //       options={{ tabBarIcon: makeIconRender("home") }}
+    //     />
+    //     <Tab.Screen
+    //       name="Settings"
+    //       component={SettingsScreen}
+    //       options={{ tabBarIcon: makeIconRender("cog") }}
+    //     />
+    //   </Tab.Navigator>
+    // </NavigationContainer>
